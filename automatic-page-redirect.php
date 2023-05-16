@@ -2,6 +2,7 @@
 
 /*
 Plugin Name: Automatic logged-in Page Redirect
+Plugin Url: https://github.com/patrickstecker/automatic-page-redirect/
 Description: Redirect logged-in users to a custom page when they try to access a page. Works in combination with ACF Plugin. If you set the ACF Field "Redirect to Page if Logged in" (redirect_to_page_if_logged_in), then it will automatically redirect you from there if it is set.
 Version: 1.0.0
 Author: Patrick Stecker
